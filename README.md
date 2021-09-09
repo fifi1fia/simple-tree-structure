@@ -3,7 +3,8 @@ I implemented tree data structure in c/ c++. with other features.
 
 
 Enter your choice:
-.\n
+
+
 1)INSERT       
 2)SEARCH        
 3)IN ORDER TRAVERSAL    
